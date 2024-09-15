@@ -13,3 +13,18 @@ jupyter:
     name: python3
 ---
 
+# Welcome!
+
+Hello! I’m Karla. Welcome to my professional website!
+
+## About Me
+
+Here’s a bit about my background and interests...
+
+## Projects
+
+Check out my work and projects...
+
+## Contact
+
+Feel free to reach out to me via email or connect with me on 778 2012402
