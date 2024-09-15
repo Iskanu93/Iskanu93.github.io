@@ -4,14 +4,28 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I have experience in consulting (Big4)"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I have experience in consulting (Big4)"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nYou can reach me via karlygash.zhakupbayeva@gmail.com or connect with me by phone (778) 201 2402."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "my-website",
     "section": "",
-    "text": "Hello! I’m Karlygash, a data scientist passionate about football.\n\n\nI have experience in consulting (Big4)\n\n\n\nYou can reach me via karlygash.zhakupbayeva@gmail.com or connect with me by phone (778) 201 2402.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello! I’m Karlygash, a data scientist passionate about football.\n\n\nI have experience in consulting (Big4)\n\n\n\nYou can reach me via karlygash.zhakupbayeva@gmail.com or connect with me by phone (778) 201 2402."
   },
   {
     "objectID": "index.html#about-me",
@@ -25,6 +39,6 @@
     "href": "index.html#contact",
     "title": "my-website",
     "section": "",
-    "text": "You can reach me via karlygash.zhakupbayeva@gmail.com or connect with me by phone (778) 201 2402.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "You can reach me via karlygash.zhakupbayeva@gmail.com or connect with me by phone (778) 201 2402."
   }
 ]
