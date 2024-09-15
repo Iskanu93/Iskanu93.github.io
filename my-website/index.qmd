@@ -2,6 +2,16 @@
 title: "my-website"
 ---
 
-This is a Quarto website.
+# Welcome to My Personal Website
+
+Hello! I'm Karlygash, a data scientist passionate about football. 
+
+## About Me
+
+I have experience in consulting (Big4)
+
+## Contact
+
+You can reach me via karlygash.zhakupbayeva@gmail.com or connect with me by phone (778) 201 2402.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
