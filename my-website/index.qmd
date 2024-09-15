@@ -1,17 +1,15 @@
 ---
-title: "my-website"
+title: my-website
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.16.4
+  kernelspec:
+    display_name: Python 3 (ipykernel)
+    language: python
+    name: python3
 ---
 
-# Welcome to My Personal Website
-
-Hello! I'm Karlygash, a data scientist passionate about football. 
-
-## About Me
-
-I have experience in consulting (Big4)
-
-## Contact
-
-You can reach me via karlygash.zhakupbayeva@gmail.com or connect with me by phone (778) 201 2402.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
